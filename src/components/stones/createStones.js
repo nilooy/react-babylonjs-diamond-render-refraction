@@ -50,7 +50,7 @@ export default function createScene(model, engine, canvas, color, type) {
     else camera.beta = 9.5;
     camera.alpha = 10;
     if (model == "diamond") camera.radius = 9.5;
-    else camera.radius = 1;
+    else camera.radius = 1.3;
     // camera.position.x = 2;
 
     scene.environmentTexture = BABYLON.CubeTexture.CreateFromPrefilteredData(
