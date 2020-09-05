@@ -2,7 +2,6 @@
   "name": "front_only_diamond",
   "version": "0.1.0",
   "private": true,
-  "homepage": "react-babylonjs-diamond-render-refraction",
   "dependencies": {
     "babylonjs": "^4.0.3",
     "babylonjs-loaders": "^4.0.3",
@@ -19,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d deploy"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

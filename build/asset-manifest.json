@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "react-babylonjs-diamond-render-refraction/static/css/main.9ed815fc.chunk.css",
-    "main.js": "react-babylonjs-diamond-render-refraction/static/js/main.9be425cc.chunk.js",
-    "main.js.map": "react-babylonjs-diamond-render-refraction/static/js/main.9be425cc.chunk.js.map",
-    "runtime-main.js": "react-babylonjs-diamond-render-refraction/static/js/runtime-main.580f8deb.js",
-    "runtime-main.js.map": "react-babylonjs-diamond-render-refraction/static/js/runtime-main.580f8deb.js.map",
-    "static/css/2.fe727932.chunk.css": "react-babylonjs-diamond-render-refraction/static/css/2.fe727932.chunk.css",
-    "static/js/2.8b64fa64.chunk.js": "react-babylonjs-diamond-render-refraction/static/js/2.8b64fa64.chunk.js",
-    "static/js/2.8b64fa64.chunk.js.map": "react-babylonjs-diamond-render-refraction/static/js/2.8b64fa64.chunk.js.map",
-    "index.html": "react-babylonjs-diamond-render-refraction/index.html",
-    "precache-manifest.145bc1701b7f598dab9668095d90fa0e.js": "react-babylonjs-diamond-render-refraction/precache-manifest.145bc1701b7f598dab9668095d90fa0e.js",
-    "service-worker.js": "react-babylonjs-diamond-render-refraction/service-worker.js",
-    "static/css/2.fe727932.chunk.css.map": "react-babylonjs-diamond-render-refraction/static/css/2.fe727932.chunk.css.map",
-    "static/css/main.9ed815fc.chunk.css.map": "react-babylonjs-diamond-render-refraction/static/css/main.9ed815fc.chunk.css.map",
-    "static/media/material-icons.css": "react-babylonjs-diamond-render-refraction/static/media/MaterialIcons-Regular.d120c85b.ttf"
+    "main.css": "/static/css/main.9ed815fc.chunk.css",
+    "main.js": "/static/js/main.08048ff8.chunk.js",
+    "main.js.map": "/static/js/main.08048ff8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03a1446e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03a1446e.js.map",
+    "static/css/2.d038ee2e.chunk.css": "/static/css/2.d038ee2e.chunk.css",
+    "static/js/2.8b64fa64.chunk.js": "/static/js/2.8b64fa64.chunk.js",
+    "static/js/2.8b64fa64.chunk.js.map": "/static/js/2.8b64fa64.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.83d35786360a77144b09818dcaa7b45a.js": "/precache-manifest.83d35786360a77144b09818dcaa7b45a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d038ee2e.chunk.css.map": "/static/css/2.d038ee2e.chunk.css.map",
+    "static/css/main.9ed815fc.chunk.css.map": "/static/css/main.9ed815fc.chunk.css.map",
+    "static/media/material-icons.css": "/static/media/MaterialIcons-Regular.d120c85b.ttf"
   }
 }
